@@ -6,7 +6,8 @@ body {
 }
 
 h2 {
-    color: black}
+    color: black
+}
 
 .black-span {
     color: black;
@@ -21,10 +22,12 @@ h2 {
     width: 80%;
 
 }
-h1{
-    
-    text-transform:uppercase
+
+h1 {
+
+    text-transform: uppercase
 }
+
 #new {
 
     color: black;
@@ -37,8 +40,14 @@ img {
 
     border: 6px dotted black
 }
-@media screen and (max-width:30rem){
-    h1{
-        color:black
+
+@media screen and (max-width:30rem) {
+    h1 {
+        color: black
     }
+}
+
+.container {
+    display: flex;
+
 }

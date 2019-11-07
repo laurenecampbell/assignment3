@@ -48,7 +48,28 @@ img {
 }
 
 .container {
-    display:flex;
-/*    flex-direction:column; */
-    flex-wrap: wrap; 
+    display: flex;
+    /*    flex-direction:column; */
+    flex-wrap: wrap;
 }
+
+.item1 {
+
+    flex: 4;
+}
+.item2 {
+
+    flex: 4;
+}
+
+.item3 {
+
+    flex: 4;
+}
+
+.item4 {
+
+    flex: 4;
+}
+
+
